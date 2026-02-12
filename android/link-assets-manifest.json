@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/CormorantInfant-VariableFont_wght.ttf",
+      "sha1": "82373031402c46463d2328014138d1bda6c732bc"
+    },
+    {
+      "path": "assets/fonts/Cinzel-VariableFont_wght.ttf",
+      "sha1": "c0c881eb9d89385f57c162f2a00a29c29b02f458"
+    },
+    {
+      "path": "assets/fonts/InterTight-VariableFont_wght.ttf",
+      "sha1": "4bef187cdaa79cbbcfc2ea5653fcb2c8fde664bb"
+    }
+  ]
+}
