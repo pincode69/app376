@@ -14,7 +14,7 @@ definitions:
       XCODE_SCHEME: "Aura"
       APP_STORE_APP_ID: 6759354252
       BUILD_ENV: production
-    node: 18
+    node: 20
     xcode: latest
     cocoapods: default
 
