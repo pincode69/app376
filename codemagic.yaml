@@ -1,7 +1,7 @@
 # Definitions and workflows
 definitions:
   common_scripts: &common_scripts
-    - name: Install npm dependencies
+  name: Install npm dependencies
       script: |
         npm install
 
